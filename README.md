@@ -4,7 +4,7 @@
 
 #### Currently not active in any project. Feel free to bump for collab!
 
-[![Riichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyAddler&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Riichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyAddlers&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BillyAddlers/BillyAddlers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
