@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, Halo, Ola, Ahoy, Pozdrav, Hai, Ola, Salut, Ohayo, Hemwoo 👋
+
+#### Vocational-graduated Illustrator and IT College Student. Likes to do some coding. Discord Tag: Riichi_Rusdiana#6815
+
+#### Currently not active in any project. Feel free to bump for collab!
+
+[![Riichi's GitHub stats](https://github-readme-stats.vercel.app/api?username=BillyAddler&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BillyAddlers/BillyAddlers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
