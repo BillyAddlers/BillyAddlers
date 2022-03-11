@@ -1,6 +1,7 @@
 # Hello, Halo, Ola, Ahoy, Pozdrav, Hai, Ola, Salut, Ohayo, Hemwoo 👋
 
-#### Vocational-graduated Illustrator and IT College Student. Likes to do some coding. Discord Tag: Riichi_Rusdiana#6815
+#### Vocational-graduated Illustrator and IT College Student. Likes to do some coding. I love RPG Games! 
+Discord Tag: Riichi_Rusdiana#6815
 
 #### Currently not active in any project. Feel free to bump for collab!
 
